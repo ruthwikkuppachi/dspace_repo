@@ -20,4 +20,4 @@ As a data scientist, I regularly work with publicly available datasets on platfo
 - I wanted to explore the DSpace repository and its features.
 - I regularly work with projects in the climate/weather field so having all these datasets in one place with relevant metadata would be helpful in case I needed to work on a project requiring a specific dataset. 
 
-Through this project, I got to learn a lot about managing and administering a DSpace repository. I learned how to create Communities and Collections, add Items to each Community, and add relevant metadata fields to each Item. 
+Through this project, I got to learn a lot about managing and administering a DSpace repository, including how to create Communities and Collections, add Items to each Community, and add relevant metadata fields to each Item.
