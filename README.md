@@ -2,6 +2,20 @@
 
 This repository contains the files pertaining to my personal repository of publicly available datasets on weather on Kaggle, stored on DSpace.
 
+## Installation
+
+This repository is only available locally and can be viewed with the help of Docker. To view the website, cd into the directory on your device containing the "dspace-angular" folder and type:
+
+```console
+docker-compose -p d7 -f docker/docker-compose.yml -f docker/docker-compose-rest.yml up -d
+```
+
+The DSpace environment should be accessible on localhost:4000. To shutdown the DSpace instance, type:
+```console
+docker-compose -p d7 -f docker/docker-compose.yml -f docker/docker-compose-rest.yml down
+```
+on the Terminal.
+
 ## Screenshots of the DSpace Repository
 
 DSpace Home:
